@@ -57,7 +57,7 @@
         <div class="wrapper">
         <div class="right">
                       <a href="user_profile.php"><b>INFORMATION</b></a>
-        <a href="activity.php"><b>ACTIVITIES</b></a>
+        <a href="songgpic.php"><b>ACTIVITIES</b></a>
         <hr><br><br>
         <div class="info">
             

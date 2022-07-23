@@ -68,7 +68,42 @@
                     <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="1"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="2"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="3"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="4"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="5"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="6"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
@@ -82,73 +117,25 @@
                       <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="8"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
                       <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="9"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
                       <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="10"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
+
                       
                  </div>
             </div>
@@ -239,7 +226,42 @@
                     <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="1"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="2"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="3"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="4"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="5"></i>  
+                          </div>
+                          <h5> Moutain High</h5>
+                      </li>
+                      <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/artist-img/A1.jpg" alt="">
+                            <i class="bi playListPlay bi-play-circle-fill" id="6"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
@@ -253,49 +275,14 @@
                       <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="8"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
                       <li class="songItem">
                         <div class="img_play">
                             <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
-                          </div>
-                          <h5> Moutain High</h5>
-                      </li>
-                      <li class="songItem">
-                        <div class="img_play">
-                            <img src="img/artist-img/A1.jpg" alt="">
-                            <i class="bi playListPlay bi-play-circle-fill" id="7"></i>  
+                            <i class="bi playListPlay bi-play-circle-fill" id="9"></i>  
                           </div>
                           <h5> Moutain High</h5>
                       </li>
