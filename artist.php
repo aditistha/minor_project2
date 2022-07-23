@@ -25,14 +25,14 @@
         <img class="profilepic" src="img/core-img/pp.jpg">
           </div>
         <div class="playlist">
-        <h4 class="active"><span></span><i class="bi bi-house-door"></i>Home</h4>
+        <h4 class="active"><span></span><a href="artist.php"><i class="bi bi-house-door"></i>Home</a></h4>
                  <h4 class="active"><span></span><a href="artistprofile.php"><i class="bi bi-person-circle"></i>Profile</a></h4>
                  <h4 class="active"><span></span><a href="mostlyviewed.php"><i class="bi bi-emoji-heart-eyes"></i>Mostly viewed</a></h4>
         </div>
         <h5 class="yourmusic">Your Music</h5>
         <div class="playlist">
-                 <h4 class="active"><span></span><i class="bi bi-file-music"></i>Songs</h4>
-                 <h4 class="active"><span></span><i class="bi bi-disc"></i>Albums</h4>
+                 <h4 class="active"><span></span><a href="songs.php"><i class="bi bi-file-music"></i>Songs</a></h4>
+                 <h4 class="active"><span></span><a href="album.php"><i class="bi bi-disc"></i>Albums</a></h4>
         </div>
         <div class="playlist">
                  <h4 class="active logout"><span></span><i class="bi bi-box-arrow-left"></i>Logout</h4>
