@@ -205,8 +205,6 @@ box-shadow:  28px 28px 57px #503da2,
   }
   .wrapper .right .projects a{
     font-size: 18px;
-    display: flex;
-    justify-content: space-evenly!important;
     color: #fff;
     float: left!important;
   
@@ -216,7 +214,7 @@ box-shadow:  28px 28px 57px #503da2,
   .wrapper .right .projects {
     margin-top: 1px;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     
   }
   

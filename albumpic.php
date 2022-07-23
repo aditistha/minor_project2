@@ -74,12 +74,12 @@
 					<input type="text" placeholder="" name="id"  required><br><br>
 					
 					
-                        <label>Song</label><br><br>
+                        <label>Song</label><br>
                         <div class="choose"> 
 					 Choose songs<input type="file" name="audio" class="file">
 					
 				   </div><br><br>
-                   <label>Image</label><br><br>
+                   <label>Image</label><br>
                         <div class="choose"> 
 					Choose image<input type="file" name="img" class="file">
 					
