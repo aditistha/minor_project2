@@ -59,7 +59,7 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="mainpage.php">Home</a></li>
-                                    <li><a href="artist.html">Artists</a></li>
+                                    <li><a href="home_artist.php">Artists</a></li>
                                     <li><a href="pricing_table.php">Premium</a></li>
                                     <li><a href="contact.html">Contact</a></li>
                                 </ul>
@@ -450,17 +450,6 @@
                             </div>
                         </div>
 
-                        <!-- Single Top Item -->
-                        <div class="single-top-item d-flex wow fadeInUp" data-wow-delay="350ms">
-                            <div class="thumbnail">
-                                <img src="img/bg-img/wt6.jpg" alt="">
-                            </div>
-                            <div class="content-">
-                                <h6>The Culture</h6>
-                                <p>Pop Songs</p>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
 
@@ -479,8 +468,8 @@
                                     <img src="img/bg-img/wt7.jpg" alt="">
                                 </div>
                                 <div class="content-">
-                                    <h6>Sam Smith</h6>
-                                    <p>Underground</p>
+                                    <h6>Bipul Chettri</h6>
+                                    <p>Katai Uslai</p>
                                 </div>
                             </div>
                             <audio preload="auto" controls>
@@ -495,8 +484,8 @@
                                     <img src="img/bg-img/wt8.jpg" alt="">
                                 </div>
                                 <div class="content-">
-                                    <h6>Power Play</h6>
-                                    <p>In my mind</p>
+                                    <h6>Prakash Saput</h6>
+                                    <p>Futeka Chura</p>
                                 </div>
                             </div>
                             <audio preload="auto" controls>
@@ -552,21 +541,6 @@
                             </audio>
                         </div>
 
-                        <!-- Single Top Item -->
-                        <div class="single-new-item d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="350ms">
-                            <div class="first-part d-flex align-items-center">
-                                <div class="thumbnail">
-                                    <img src="img/bg-img/wt12.jpg" alt="">
-                                </div>
-                                <div class="content-">
-                                    <h6>The Culture</h6>
-                                    <p>Pop Songs</p>
-                                </div>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
-                            </audio>
-                        </div>
                     </div>
                 </div>
 
@@ -584,7 +558,7 @@
                                 <img src="img/bg-img/pa1.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Sam Smith</p>
+                                <p>Bipul Chettri</p>
                             </div>
                         </div>
 
@@ -594,7 +568,7 @@
                                 <img src="img/bg-img/pa2.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>William Parker</p>
+                                <p>Sabin Rai</p>
                             </div>
                         </div>
 
@@ -604,7 +578,7 @@
                                 <img src="img/bg-img/pa3.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Jessica Walsh</p>
+                                <p>PRAKASH SAPUT</p>
                             </div>
                         </div>
 
@@ -614,7 +588,7 @@
                                 <img src="img/bg-img/pa4.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Tha Stoves</p>
+                                <p>Bartika Eam Rai</p>
                             </div>
                         </div>
 
@@ -624,30 +598,17 @@
                                 <img src="img/bg-img/pa5.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>DJ Ajay</p>
+                                <p>Sajjan Raj Vaidya</p>
                             </div>
                         </div>
-
-                        <!-- Single Artist -->
-                        <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="350ms">
+                        <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="300ms">
                             <div class="thumbnail">
                                 <img src="img/bg-img/pa6.jpg" alt="">
                             </div>
                             <div class="content-">
-                                <p>Radio Vibez</p>
+                                <p>Amrit Gurung</p>
                             </div>
                         </div>
-
-                        <!-- Single Artist -->
-                        <div class="single-artists d-flex align-items-center wow fadeInUp" data-wow-delay="400ms">
-                            <div class="thumbnail">
-                                <img src="img/bg-img/pa7.jpg" alt="">
-                            </div>
-                            <div class="content-">
-                                <p>Music 4u</p>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>

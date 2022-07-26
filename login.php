@@ -100,13 +100,11 @@
                         <div class="login-form">
                             <form action="login_handle.php" method="POST">
                             <div class="form-group">
-                                    <label for="exampleInputEmail1" style="font-size: 20px;">User Type</label><br>
-                                    <input id="1" type="radio" name="acc_type" value="user">
-                                    <label for="1" style="font-size: 20px;">User</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    <input id="2" type="radio" name="acc_type" value="artist">
-                                    <label for="2" style="font-size: 20px;">Artist</label>
-                                   
-
+                                    <label for="" style="font-size: 20px;">User Type</label><br>
+                                    <input id="1" type="radio" name="acc_type" value="user"id="user">
+                                    <label for="user" style="font-size: 20px;">User</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    <input id="2" type="radio" name="acc_type" value="artist" id="artist">
+                                    <label for="artist" style="font-size: 20px;">Artist</label>
                                 </div>
                                 <div class="form-group">
                                     <label for="exampleInputEmail1" style="font-size: 20px;">Email address</label>

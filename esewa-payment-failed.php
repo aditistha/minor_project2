@@ -1,18 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="../css/payment_gateway.css">
-	<title>Esewa</title>
-</head>
-<body>
+<?php
+    include 'head.php'; 
+   // echo $new_price;
+?>
     <div class="container">
         <div class="row">
             <div class="col-md-6 form">
                 <div class='alert bg_error'>Payment Unsuccessfull.</div>
-                <a class="login-a mt-3"  href="pricing.html">Back To Home!!</a>
+                <a class="login-a mt-3"  href="index.php">Back To Home!!</a>
             </div>
         </div>
-    </div> 
-</body>
-</html>
+    </div>
+<?php
+include 'footer.php';  
+?>

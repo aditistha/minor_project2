@@ -1,9 +1,9 @@
 <?php
     SESSION_start();
     include ('connection.php');
-    $email=$_POST['email'];
-    $password=$_POST['password'];
-    $acctype=$_POST['acc_type'];
+    echo $email=$_POST['email'];
+    echo $password=$_POST['password'];
+    echo $acctype=$_POST['acc_type'];
     if(isset($_POST['reg'])){
         header("location : register.php ");
     }
@@ -15,7 +15,7 @@
         	if($row['email']===$email && $row['password']===$password){
         		$_SESSION['user_id']=$row['user_id'];
         		$_SESSION['fname']=$row['fname'];
-        		header("location:user/mainpage.php ");
+        		header("location: mainpage.php ");
         		exit();
         	}
 

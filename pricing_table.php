@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include 'esewa_configration.php';  ?>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -56,6 +57,7 @@
                                 <div class="login-register-cart-button d-flex align-items-center">
                                     <!-- Login/Register -->
                                     <div class="login-register-btn mr-50">
+									
                                         <a href="login.php" id="loginBtn">Login / Register</a>
                                     </div>
 
@@ -137,6 +139,18 @@
 
 							<!--BUTTON START-->
 							<div class="generic_price_btn clearfix">
+								<form action='<?php echo $epay_url?>' method="POST" class="p-0">
+									<input value=<?php echo $totalAmount?>  name="tAmt" type="hidden">
+									<input value=<?php echo $totalAmount?> name="amt" type="hidden">
+									<input value="0" name="txAmt" type="hidden">
+									<input value="0" name="psc" type="hidden">
+									<input value="0" name="pdc" type="hidden">
+									<input value=<?php echo $merchant_code?>  name="scd" type="hidden">
+									<input value="<?php echo $pid?>" name="pid" type="hidden">
+									<input value=<?php echo $successurl?> type="hidden" name="su">
+									<input value=<?php echo $failedurl?> type="hidden" name="fu">
+									<input type="submit" id="esewa" class="m-0" name="submit"  value="e-Sewa">
+								</form>
 								<a class="pay" href="login.php">Buy Now</a>
 							</div>
 							<!--//BUTTON END-->
